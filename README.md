@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasir-afridi&label=Profile%20views&color=0e75b6&style=flat" alt="nasir-afridi" /> </p>
 
-- 🔭 I’m currently working on [Fresh-Hub](https://github.com/Nasir-afridi/fyp-fresh-hub)
+- 🔭 I’m currently working on [Qazi-Jewellers](https://mailavail.co/)
 
 - 🌱 I’m currently learning **Nodejs, expressjs, React**
 

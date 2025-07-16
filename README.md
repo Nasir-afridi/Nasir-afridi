@@ -10,10 +10,9 @@
 
 - 📫 How to reach me **nasirwc05@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/4iicnCG](https://bit.ly/4iicnCG)
+- 📄 Know about my experiences : [Resume](https://bit.ly/4iicnCG)
 
-- ⚡ Fun fact **I am funny😂**
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nasir-afridi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nasir-afridi" height="30" width="40" /></a>

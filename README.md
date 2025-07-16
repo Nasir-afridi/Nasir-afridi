@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Qazi-Jewellers](https://mailavail.co/)
 
-- 🌱 I’m currently learning **Nodejs, expressjs, React**
+- 🌱 currently learning **Nodejs, expressjs, ReactJs**
 
 - 📫 How to reach me **nasirwc05@gmail.com**
 

@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasir-afridi&label=Profile%20views&color=0e75b6&style=flat" alt="nasir-afridi" /> </p>
 
-- 🔭 I’m currently working on [Qazi-Jewellers](https://mailavail.co/)
+  I’m currently working on [Amanex-Coin](https://amanex-coin)
 
-- 🌱 currently learning **Nodejs, expressjs, ReactJs**
+  currently learning **Nodejs, expressjs, ReactJs**
 
-- 📫 How to reach me **nasirwc05@gmail.com**
+  How to reach me **nasirwc05@gmail.com**
 
-- 📄 Know about my experiences : [Resume](https://bit.ly/4iicnCG)
+  Know about my experiences : [Resume](https://bit.ly/4iicnCG)
 
   
 <h3 align="left">Connect with me:</h3>

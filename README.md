@@ -62,4 +62,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nasir-afridi&show_icons=true&locale=en"
        alt="Nasir GitHub Stats" />
 </p>
-**

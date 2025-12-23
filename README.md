@@ -12,7 +12,7 @@
 </p>
 
 - Currently working on **[Amanex-Coin](https://amanex-coin.com)**
-- Know about my experience: **[Resume](https://drive.google.com/file/d/1sGN23HVWXYyAvMeemlNpimF368THtJjg/view)**
+- Know about my experience: **[Resume](https://drive.google.com/file/d/14s_uh4Nhf7Xls4z_n4t1U-wVuCJ9Iyup/view?usp=drive_link)**
 
 ---
 

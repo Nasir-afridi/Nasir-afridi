@@ -16,7 +16,7 @@
 
 ---
 
-<h3 align="left">Skills : </h3>
+<h3 align="left">Skills:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -59,6 +59,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nasir-afridi&show_icons=true&locale=en"
-       alt="Nasir GitHub Stats" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api?username=nasir-afridi&show_icons=true&theme=default&locale=en"
+       alt="Nasir's GitHub Stats" />
 </p>

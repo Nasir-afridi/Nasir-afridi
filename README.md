@@ -11,8 +11,8 @@
        alt="nasir-afridi" />
 </p>
 
-- Currently working on **[Amanex-Coin](https://amanex-coin.com)**
-- Know about my experience: **[Resume](https://drive.google.com/file/d/14s_uh4Nhf7Xls4z_n4t1U-wVuCJ9Iyup/view?usp=drive_link)**
+- Currently working on **[Amanex-Coin](https://Tesaq.com)**
+- Know about my experience: **[Resume](https://drive.google.com/file/d/176EyKhVZ3G6Tsz5GpFT4fqsOh2_vf8fE/view?usp=drive_link)**
 
 ---
 

@@ -11,17 +11,26 @@
        alt="nasir-afridi" />
 </p>
 
-- Currently working on <b>
-  <a href="https://Tesaq.com" target="_blank" rel="noreferrer">Tesaq</a>
-</b>
+<p>
+  • Currently working on
+  <b>
+    <a href="https://tesaq.com" target="_blank" rel="noopener noreferrer">
+      Tesaq
+    </a>
+  </b>
+</p>
 
-- Know about my experience: <b>
-  <a href="https://drive.google.com/file/d/176EyKhVZ3G6Tsz5GpFT4fqsOh2_vf8fE/view?usp=drive_link"
-     target="_blank"
-     rel="noreferrer">
-     Resume
-  </a>
-</b>
+<p>
+  • Know about my experience:
+  <b>
+    <a href="https://drive.google.com/file/d/176EyKhVZ3G6Tsz5GpFT4fqsOh2_vf8fE/view?usp=drive_link"
+       target="_blank"
+       rel="noopener noreferrer">
+      Resume
+    </a>
+  </b>
+</p>
+
 
 <h3 align="left">Skills:</h3>
 <p align="left">

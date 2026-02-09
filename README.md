@@ -12,7 +12,7 @@
 </p>
 
 - Currently working on **[Tesaq](https://Tesaq.com)**
-- Know about my experience: **[Resume](https://drive.google.com/file/d/176EyKhVZ3G6Tsz5GpFT4fqsOh2_vf8fE/view?usp=drive_link)**
+- Know about my experience: **[Resume](https://drive.google.com/file/d/1OMf3iUyJou50JidYGY2ssL7WOPONpdYB/view?usp=drive_link)**
 
 
 <h3 align="left">Skills:</h3>

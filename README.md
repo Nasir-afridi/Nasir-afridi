@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nasir</h1>
-<h3 align="center">Frontend Developer | Pakistan</h3>
+<h3 align="center">Web Developer | Pakistan</h3>
 
 <img align="right"
      alt="Coding"

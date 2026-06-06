@@ -11,7 +11,7 @@
        alt="nasir-afridi" />
 </p>
 
-- Portfolio **[Nasir-Portfolio](https://nasir-showcase.netlify.app)**
+- Portfolio: **[Nasir-Portfolio](https://nasir-showcase.netlify.app)**
 
 <h3 align="left">Skills:</h3>
 <p align="left">
